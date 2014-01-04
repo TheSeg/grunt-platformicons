@@ -1,6 +1,6 @@
 # grunt-platformicons
 
-[![Build Status](https://travis-ci.org/TheSeg/grunt-platformicons.png?branch=master)](https://travis-ci.org/TheSeg/grunt-platformicons)
+[![Build Status](https://travis-ci.org/TheSeg/grunt-platformicons.png?branch=master)](https://travis-ci.org/TheSeg/grunt-platformicons) [![GitHub version](https://badge.fury.io/gh/TheSeg%2Fgrunt-platformicons.png)](http://badge.fury.io/gh/TheSeg%2Fgrunt-platformicons) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TheSeg/grunt-platformicons/trend.png)](https://bitdeli.com/free "Bitdeli Badge") [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 > Generate icons and support images for a number of platforms.
 

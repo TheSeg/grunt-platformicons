@@ -1,5 +1,7 @@
 # grunt-platformicons
 
+[![Build Status](https://travis-ci.org/TheSeg/grunt-platformicons.png?branch=master)](https://travis-ci.org/TheSeg/grunt-platformicons)
+
 > Generate icons and support images for a number of platforms.
 
 ## Getting Started
